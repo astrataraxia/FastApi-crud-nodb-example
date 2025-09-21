@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "fastapi[standard]>=0.117.1",
+    "mysql-connector-python>=9.4.0",
     "nanoid>=2.0.0",
     "ruff>=0.13.1",
 ]
